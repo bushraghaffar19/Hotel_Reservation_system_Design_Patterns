@@ -1,0 +1,8 @@
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.exe.config
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.exe
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\bin\Debug\AgungSetiawan_MidExam_Hotel.pdb
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\obj\Debug\Dp_Hotel_Project.csproj.AssemblyReference.cache
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\obj\Debug\Dp_Hotel_Project.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\obj\Debug\Dp_Hotel_Project.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.exe
+D:\C-Sharp-Object-Hotel-App-main\AgungSetiawan_MidExam_Hotel\obj\Debug\AgungSetiawan_MidExam_Hotel.pdb

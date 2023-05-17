@@ -1,2 +1,2 @@
-# Hotel_Reservation_system_Design_Patterns
- It is an OOP based C# console Hotel Reservation System in Which 4 different Design Patterns are applied i.e  Observer Pattern, Builder Pattern etc.
+# C-Sharp-Object-Hotel-App
+Create a C# console application in the concept of OOP (Object Oriented Programming). With the hotel application design requirements from the main page to the booking history.
